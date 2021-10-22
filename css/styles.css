@@ -26,25 +26,46 @@
 }
 
 .one {
-  background-color: royalblue;
+  background-color: lightblue;
   color: #fff;
   font-size: 2rem;
 }
 
 .two {
-  background-color: cyan;
-  color: #fff;
-  font-size: 2rem;
-}
-
-.three {
   background-color: lightcoral;
   color: #fff;
   font-size: 2rem;
 }
 
+.three {
+  background-color: lightcyan;
+  color: #fff;
+  font-size: 2rem;
+}
+
 .four {
-  background-color: rosybrown;
+  background-color: lightseagreen;
+  color: #fff;
+  font-size: 2rem;
+}
+
+.five {
+  background-color: seagreen;
+  color: #fff;
+  font-size: 2rem;
+}
+.six {
+  background-color: cyan;
+  color: #fff;
+  font-size: 2rem;
+}
+.seven {
+  background-color: coral;
+  color: #fff;
+  font-size: 2rem;
+}
+.eight {
+  background-color: royalblue;
   color: #fff;
   font-size: 2rem;
 }
